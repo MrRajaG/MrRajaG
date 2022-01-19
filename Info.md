@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raja Taha
+- 👀 I’m interested in game developing and web developing
+- 🌱 I’m currently learning C++
+- 📫 You can reach me on my twitter account
